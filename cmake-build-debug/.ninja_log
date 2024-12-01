@@ -1,0 +1,20 @@
+# ninja log v6
+2	284	7547646566414772	CMakeFiles/sommaIntervallo.dir/main.c.obj	9a732869397a6082
+32	450	7547646566723995	CMakeFiles/sommaIntervallo.dir/funzioni.c.obj	558f10464f9afe59
+450	872	7547646570904205	sommaIntervallo.exe	34a0c2a77877fb5
+2	437	7547651700957848	CMakeFiles/sommaIntervallo.dir/main.c.obj	9a732869397a6082
+47	603	7547651701405299	CMakeFiles/sommaIntervallo.dir/funzioni.c.obj	558f10464f9afe59
+603	1021	7547651706964174	sommaIntervallo.exe	34a0c2a77877fb5
+2	267	7547652424152016	CMakeFiles/sommaIntervallo.dir/main.c.obj	9a732869397a6082
+267	662	7547652426797846	sommaIntervallo.exe	34a0c2a77877fb5
+3	296	7547657169583078	CMakeFiles/sommaIntervallo.dir/main.c.obj	9a732869397a6082
+31	447	7547657169863193	CMakeFiles/sommaIntervallo.dir/funzioni.c.obj	558f10464f9afe59
+447	850	7547657174033288	sommaIntervallo.exe	34a0c2a77877fb5
+3	283	7547661467498497	CMakeFiles/sommaIntervallo.dir/main.c.obj	9a732869397a6082
+32	450	7547661467784671	CMakeFiles/sommaIntervallo.dir/funzioni.c.obj	558f10464f9afe59
+450	843	7547661471965582	sommaIntervallo.exe	34a0c2a77877fb5
+2	449	7547664754934384	CMakeFiles/sommaIntervallo.dir/main.c.obj	9a732869397a6082
+49	603	7547664755385334	CMakeFiles/sommaIntervallo.dir/funzioni.c.obj	558f10464f9afe59
+603	1060	7547664760933090	sommaIntervallo.exe	34a0c2a77877fb5
+3	260	7547666038695640	CMakeFiles/sommaIntervallo.dir/main.c.obj	9a732869397a6082
+260	646	7547666041263890	sommaIntervallo.exe	34a0c2a77877fb5
